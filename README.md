@@ -208,4 +208,4 @@ Winamp is available as a complete free version for Windows, including all featur
 Download Winamp today and rediscover the joy of music playback on Windows!
 
 ---
-**Last updated:** 2026-10-27 20:20:36 UTC
+**Last updated:** 2026-10-28 00:10:47 UTC
